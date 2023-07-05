@@ -16,7 +16,6 @@ const Introduction = () =>{
             <img src="/images/Nkatha.png" alt="Nkatha" id="nkatha"/>
             <img src="/images/student2.png" alt="student2" id="student2"/>
             </div>
-
         </div>
         
     );
